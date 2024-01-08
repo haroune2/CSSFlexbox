@@ -14,6 +14,8 @@ Bienvenue à la Carrés Party avec Flexbox ! 🎉 Ce petit projet amusant vous p
 3. Amusez-vous à jouer avec les menus et à observer les changements !
 
 ## Capture d'écran
+![Capture d'écran](screenshot.JPG)
+
 
 
 ## Exemple de Code
